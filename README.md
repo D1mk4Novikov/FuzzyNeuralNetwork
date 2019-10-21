@@ -1,7 +1,5 @@
 # FuzzyNeuralNetwork
 
-[![NPM](https://nodei.co/npm/excaliburjs.png?mini=true)](https://nodei.co/npm/excaliburjs/)
-
 Node.js and NPM are required to run this programs.
 All of the steps below to install and configure the launch of programs are valid for macOS 10.9 and higher.
 
@@ -9,10 +7,10 @@ All of the steps below to install and configure the launch of programs are valid
 
 * [Installation](#installation)
   * [Homebrew](#homebrew)
-  * [Node.js and NPM](#node-js-and-npm)
+  * [Node.js and NPM](#nodejs-and-npm)
   * [Check installation](#check-installation)
 * [Tasks](#tasks)
-  * [Task_#1](#task--1)
+  * [Task_#1](#task-#1)
 
 ## Installation
 
