@@ -1,5 +1,7 @@
 # FuzzyNeuralNetwork
 
+![][logo.png]
+
 Node.js and NPM are required to run this programs.
 All of the steps below to install and configure the launch of programs are valid for macOS 10.9 and higher.
 
