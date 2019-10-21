@@ -10,7 +10,7 @@ All of the steps below to install and configure the launch of programs are valid
   * [Node.js and NPM](#nodejs-and-npm)
   * [Check installation](#check-installation)
 * [Tasks](#tasks)
-  * [Task_#1](#task-#1)
+  * [Task_#1](#task-1)
 
 ## Installation
 
@@ -51,3 +51,13 @@ npm -v
 ## Tasks
 
 ### Task_#1
+
+### Task_#2
+
+### Task_#3
+
+### Task_#4
+
+### Task_#5
+
+### Task_#6
