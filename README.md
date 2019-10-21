@@ -1,6 +1,6 @@
 # FuzzyNeuralNetwork
 
-![](https://github.com/D1mk4Novikov/FuzzyNeuralNetwork/tree/Development/Images/logo.png)
+![NPM](/Images/logo.png)
 
 Node.js and NPM are required to run this programs.
 All of the steps below to install and configure the launch of programs are valid for macOS 10.9 and higher.
