@@ -25,7 +25,7 @@ All of the steps below to install and configure the launch of programs are valid
 
 ### Homebrew
 
-Open a terminal, paste the following command and press Enter
+Open a terminal, paste the following command and press *Return*
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -33,7 +33,7 @@ Open a terminal, paste the following command and press Enter
 
 ### Node.js and NPM
 
-After installing Homebrew, paste the following command into the terminal for installation Node.js and NPM
+After installing **Homebrew**, paste the following command into the terminal for installation Node.js and NPM
 
 ```bash
 brew install node
@@ -41,7 +41,7 @@ brew install node
 
 ### Check installation
 
-To verify correctly installed Node.js and. NPM type the following commands in terminal
+To verify correctly installed Node.js and NPM type the following commands in terminal
 
 ```bash
 node --version
