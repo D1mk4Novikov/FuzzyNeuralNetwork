@@ -5,6 +5,7 @@
 Node.js and NPM are required to run this programs.
 All of the steps below to install and configure the launch of programs are valid for macOS 10.9 and higher.
 
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -12,12 +13,13 @@ All of the steps below to install and configure the launch of programs are valid
   * [Node.js and NPM](#nodejs-and-npm)
   * [Check installation](#check-installation)
 * [Tasks](#tasks)
-  * [Task_#1](#task_#1)
+  * [Task_#1](#task__1)
   * [Task_#2](#task_#2)
   * [Task_#3](#task_3)
   * [Task_#4](#task_4)
   * [Task_#5](#task_5)
   * [Task_#6](#task_6)
+
 
 ## Installation
 
@@ -54,6 +56,7 @@ v12.12.0
 npm -v
 6.11.3
 ```
+
 
 ## Tasks
 
