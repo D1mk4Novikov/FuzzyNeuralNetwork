@@ -1,7 +1,10 @@
 # FuzzyNeuralNetwork
 
+![NPM](/Images/logo.png)
+
 Node.js and NPM are required to run this programs.
 All of the steps below to install and configure the launch of programs are valid for macOS 10.9 and higher.
+
 
 ## Table of Contents
 
@@ -10,13 +13,18 @@ All of the steps below to install and configure the launch of programs are valid
   * [Node.js and NPM](#nodejs-and-npm)
   * [Check installation](#check-installation)
 * [Tasks](#tasks)
-  * [Task_#1](#task_\"#"1)
+  * [Task_#1](#task_1)
+  * [Task_#2](#task_2)
+  * [Task_#3](#task_3)
+  * [Task_#4](#task_4)
+  * [Task_#5](#task_5)
+
 
 ## Installation
 
 ### Homebrew
 
-Open a terminal, paste the following command and press Enter
+Open a terminal, paste the following command and press **Return**
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -24,7 +32,7 @@ Open a terminal, paste the following command and press Enter
 
 ### Node.js and NPM
 
-After installing Homebrew, paste the following command into the terminal for installation Node.js and NPM
+After installing *Homebrew*, paste the following command into the terminal for installation Node.js and NPM
 
 ```bash
 brew install node
@@ -32,7 +40,7 @@ brew install node
 
 ### Check installation
 
-To verify correctly installed Node.js and. NPM type the following commands in terminal
+To verify correctly installed Node.js and NPM type the following commands in terminal
 
 ```bash
 node --version
@@ -48,6 +56,7 @@ npm -v
 6.11.3
 ```
 
+
 ## Tasks
 
 ### Task_#1
@@ -59,5 +68,3 @@ npm -v
 ### Task_#4
 
 ### Task_#5
-
-### Task_#6
