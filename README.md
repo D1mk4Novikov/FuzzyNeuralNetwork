@@ -18,7 +18,6 @@ All of the steps below to install and configure the launch of programs are valid
   * [Task_#3](#task_3)
   * [Task_#4](#task_4)
   * [Task_#5](#task_5)
-  * [Task_#6](#task_6)
 
 
 ## Installation
@@ -69,5 +68,3 @@ npm -v
 ### Task_#4
 
 ### Task_#5
-
-### Task_#6
