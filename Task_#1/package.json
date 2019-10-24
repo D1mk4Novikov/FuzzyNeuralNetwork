@@ -1,0 +1,16 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task_#1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/D1mk4Novikov/FuzzyNeuralNetwork/tree/Development/Task_%231"
+  },
+  "author": "D1mk4Novikov",
+  "license": "ISC",
+  "private": true
+}
