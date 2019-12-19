@@ -1,6 +1,30 @@
 import net.sourceforge.jFuzzyLogic.FIS;
 
 
+/*
+
+ * Тестовый парсер FCL-файла
+ * компилируем командой "javac -cp ./jFuzzyLogic_v2.1a.jar Tea.java"
+ * далее кладем файл Tea.class в каталог Tea
+ * и запускаем командой "java -cp ./jFuzzyLogic_v2.1a.jar:Tea Tea" (Unix)
+
+ */
+
+
+
+/*
+
+	влажность воздуха
+	температура окр среды
+	атмосферное давление
+	насыщенность почвы минералами
+	
+	количество воды
+	количетсво минерального удобренря
+
+*/
+
+
 public class Tea {
 	
 	public static void main(String[] args) throws Exception {
