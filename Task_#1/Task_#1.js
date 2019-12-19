@@ -1,1 +1,1 @@
-const OpenCV = require("opencv4nodejs");
+const OpenCV = require('opencv');
