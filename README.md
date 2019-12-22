@@ -110,6 +110,6 @@ npm -v
 
 ### Task_#5
 
-### Task_6
+### Task_#6
 
 #### Fuzzy Control Language, Fuzzy Controller using Java and FCL.
