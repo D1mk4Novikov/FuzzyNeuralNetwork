@@ -1,1 +1,0 @@
-const OpenCV = require('opencv');
