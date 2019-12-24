@@ -111,7 +111,7 @@ npm -v
 
 ### Task_#5
 
-#### Continuation of exercise 4 using your dataset trained on a computer with these characteristics:
+#### Continuation of Task_#4 using your dataset trained on a computer with these characteristics:
 
 ```bash
 CPU: Intel Core i7 3.6 GHz Base Clock Speed [6 Cores | 12 Threads]
@@ -121,7 +121,7 @@ SSD: RAID0 Samsung EVO 850 512 GB [1 TB]
 OS: macOS Mojave 10.4.6 [Virtual Box with installed Windows 10 on a VM]
 ```
 
-Estimated Dataset Training Time: 3-5 minutes for dataset which includes about 80,000 pictures cut from video using Exercise_#1
+Estimated Dataset Training Time: 3-5 minutes for dataset which includes about 80,000 pictures cut from video using Task_#1
 
 ### Task_#6
 
