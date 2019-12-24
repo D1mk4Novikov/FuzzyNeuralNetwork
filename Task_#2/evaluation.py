@@ -1,10 +1,17 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-import config
+X = np.array([
+    [-2, 4, -1],
+    [4, 1, -1],
+    [1, 6, -1],
+    [2, 4, -1],
+    [6, 2, -1],
 
-X = config.x_public
-y = config.y_public
+])
+
+# к какой группе относятся данные
+y = np.array([-1, -1, 1, 1, 1])
 
 def perceptron_sgd_plot(X, Y):
     '''
@@ -15,7 +22,7 @@ def perceptron_sgd_plot(X, Y):
     :return: weight vector as a numpy array
     '''
     w = np.zeros(len(X[0]))
-    eta = config.eta_public
+    eta = 1
     n = 30
     errors = []
 
