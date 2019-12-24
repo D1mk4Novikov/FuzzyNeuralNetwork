@@ -107,8 +107,19 @@ npm -v
 
 ### Task_#4
 
+#### Deep Learning Studio using TensorFlow with Keras Model. Training the basic Fashion MNIST dataset with 60,000 pictures for training and 10,000 for test
+
 ### Task_#5
+
+#### Continuation of exercise 4 using your dataset trained on a computer with these characteristics:
+
+```bash
+CPU: Intel Core i7 3.6 GHz Base Clock Speed [6 Cores | 12 Threads]
+RAM: 16 GB 2133 MHz
+GPU: eGPU RTX 2080 8 GB
+SSD: RAID0 Samsung EVO 850 512 GB [1 TB]
+```
 
 ### Task_#6
 
-#### Fuzzy Control Language, Fuzzy Controller using Java and FCL.
+#### Fuzzy Control Language, Fuzzy Controller describes Tea brewing using Java language with Fuzzy Inference System based on Mamdani algorithm
