@@ -118,7 +118,10 @@ CPU: Intel Core i7 3.6 GHz Base Clock Speed [6 Cores | 12 Threads]
 RAM: 16 GB 2133 MHz
 GPU: eGPU RTX 2080 8 GB
 SSD: RAID0 Samsung EVO 850 512 GB [1 TB]
+OS: macOS Mojave 10.4.6 [Virtual Box with installed Windows 10 on a VM]
 ```
+
+Estimated Dataset Training Time: 3-5 minutes for dataset which includes about 80,000 pictures cut from video using Exercise_#1
 
 ### Task_#6
 
